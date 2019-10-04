@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenceCalc.Android", "ExpenceCalc\ExpenceCalc.Android\ExpenceCalc.Android.csproj", "{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenceCalc", "ExpenceCalc\ExpenceCalc\ExpenceCalc.csproj", "{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BD09B4-237A-4ADF-9E97-93A2279DCC8D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B779C38A-D77C-4FC7-A0C9-3D1D1D4097C4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D5F0D85-6659-4013-9753-803E3E63E1FB}
+	EndGlobalSection
+EndGlobal
